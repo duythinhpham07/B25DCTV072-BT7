@@ -4,7 +4,7 @@ export const profile = {
   title: "Sinh viên năm 2 ngành AIoT – Học viện Công nghệ Bưu chính Viễn thông (PTIT)",
   email: "thinhpd.b25tv072@stu.ptit.edu.vn",
   phone: "0869 274 529",
-  github: "https://github.com/B25DCTV072-PhamDuyThinh",
+  github: "https://github.com/duythinhpham07",
   about:
     "Sinh viên năm 2 ngành Trí tuệ nhân tạo vạn vật (AIoT) tại PTIT. " +
     "Quan tâm đến IoT và bảo mật cho hệ thống IoT. " +
